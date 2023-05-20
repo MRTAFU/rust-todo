@@ -1,0 +1,14 @@
+/Users/nakazaki_tafu/Projects/study-rust/todo/target/debug/deps/awc-f63b22f29ac6c346.rmeta: /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs
+
+/Users/nakazaki_tafu/Projects/study-rust/todo/target/debug/deps/awc-f63b22f29ac6c346.d: /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs
+
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/lib.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/builder.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/connect.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/error.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/frozen.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/request.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/response.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/sender.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/test.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-2.0.3/src/ws.rs:

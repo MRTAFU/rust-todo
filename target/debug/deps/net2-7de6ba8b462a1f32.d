@@ -1,0 +1,13 @@
+/Users/nakazaki_tafu/Projects/study-rust/todo/target/debug/deps/net2-7de6ba8b462a1f32.rmeta: /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs
+
+/Users/nakazaki_tafu/Projects/study-rust/todo/target/debug/deps/net2-7de6ba8b462a1f32.d: /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs
+
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/lib.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/tcp.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/udp.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/socket.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/ext.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/utils.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/mod.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/sys/unix/impls.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/net2-0.2.38/src/unix.rs:

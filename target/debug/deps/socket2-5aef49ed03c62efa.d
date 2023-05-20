@@ -1,0 +1,11 @@
+/Users/nakazaki_tafu/Projects/study-rust/todo/target/debug/deps/socket2-5aef49ed03c62efa.rmeta: /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/Users/nakazaki_tafu/Projects/study-rust/todo/target/debug/deps/libsocket2-5aef49ed03c62efa.rlib: /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/Users/nakazaki_tafu/Projects/study-rust/todo/target/debug/deps/socket2-5aef49ed03c62efa.d: /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs /Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs
+
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/lib.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sockaddr.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/socket.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/utils.rs:
+/Users/nakazaki_tafu/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.3.19/src/sys/unix.rs:
